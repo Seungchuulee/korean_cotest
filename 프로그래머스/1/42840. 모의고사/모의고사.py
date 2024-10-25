@@ -51,5 +51,6 @@ def solution(answers):
     for i in range(len(li)):
         if li[i] == x:
             ans.append(i+1)
-
+    if len(ans) > 1:
+        ans.sort()
     return ans
