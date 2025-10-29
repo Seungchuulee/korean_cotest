@@ -1,6 +1,6 @@
 # [level 1] 모든 레코드 조회하기 - 59034 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59034?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59034) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@ Empty
 
 ### 제출 일자
 
-2024년 10월 29일 16:23:50
+2025년 10월 29일 15:57:50
 
 ### 문제 설명
 
